@@ -4,7 +4,8 @@
   "description": "Tempe CLI - Terminal AI Coding Agent with dynamic mascot, multi-API key, auto-language detection, and usage tracking",
   "repository": {
     "type": "git",
-    "url": "https://github.com/razannnaufal/tempe-cli.git"
+    "url": "https://github.com/razannnaufal/tempe.git",
+    "directory": "tempe-cli"
   },
   "main": "dist/index.js",
   "bin": {

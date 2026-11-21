@@ -92,7 +92,7 @@ ${chalk.bold('NAVIGASI & SHORTCUT DI DALAM CLI:')}
   ${chalk.yellow('esc')}                   Interrupt / membatalkan respon atau aksi yang sedang berjalan
 
 ${chalk.bold('DOKUMENTASI & KONTRIBUSI:')}
-  Repositori:  https://github.com/razannnaufal/tempe-cli
+  Repositori:  https://github.com/razannnaufal/tempe
   Web & Docs:  https://razannnaufal.github.io/tempe-web/
 `);
 }
